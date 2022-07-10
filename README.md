@@ -1,7 +1,7 @@
 ### Hello there 👋 
 
-- 🖥️ I am currently a third-year computer science student.
-- 🖤 I adore Frontend Web Development.
-- ✨ I am also a big fan of Data Science.
+- 🖥️ Currently a third-year computer science student.
+- 🖤 Loves Frontend Web Development.
+- ✨ A BIG fan of Data Science.
+- 💀 Loves watching true crime documentaries.
 - 😄 Check out my profile on Frontend Mentor: [adimidania](https://www.frontendmentor.io/profile/adimidania)
-- 💀 I love watching true crime documentaries.
