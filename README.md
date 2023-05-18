@@ -1,4 +1,4 @@
-# Welcome to my profile
+### Hey there 👋 
 
 - 🥰 21 years old ISFJ.
 - 🖥️ Currently a fourth-year computer science student.
