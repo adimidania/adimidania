@@ -1,18 +1,8 @@
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
-</div>
+<h1 align="center">Adimi Alaa Dania</h1>
 
 ###
 
-<h1 align="center">Alaa Dania Adimi</h1>
-
-###
-
-<p align="center">I'm currently an Artificial Intelligence Intern at Ornidex Salesforce, where I'm learning and having practical experience with Large Language Models. Alongside my internship, I'm learning about competitive programming and Full-stack Web Development.</p>
-
-###
-
-<h4 align="center">Reach out to me to these platforms</h4>
+<h4 align="center">Reach out to me on these platforms</h4>
 
 ###
 
@@ -20,13 +10,24 @@
   <a href="https://www.linkedin.com/in/daniapy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@ja_adimi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="mailto:ja_adimi@esi.dz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/coffee.addict.911/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <a href="https://medium.com/@ja_adimi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
 </div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as an Artificial Intelligence Intern at Ornidex Salesforce.<br>- 📚 I'm currently learning Large Language Models, Full-stack Web Development and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.</p>
 
 ###
 
@@ -47,14 +48,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥   My Performance</h3>
 
 ###
 
