@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as an Artificial Intelligence Intern at Ornidex Salesforce.<br>- 📚 I'm currently learning Large Language Models, Full-stack Web Development and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.</p>
+<p align="left">- 🔭 I’m working as an Artificial Intelligence Intern at Ornidex Salesforce.<br>- 📚 I'm currently learning about Large Language Models, Full-stack Web Development and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.</p>
 
 ###
 
