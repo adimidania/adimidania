@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m open to fully-remote opportunities in the field of Artificial Intelligence & Data science.<br>- 📚 I'm currently learning about Large Language Models, Full-stack Web Development, and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br>- 💗 I put together some writings, notes, and reflections on [here](https://bloomxyz.notion.site/SADAQAH-JARRIDAY-2b600abea7d2406a97b48907c4cc57d7?pvs=4) about Islam.</p>
+<p align="left">- 🔭 I’m open to fully-remote opportunities in the field of Artificial Intelligence & Data science.<br>- 📚 I'm currently learning about Large Language Models, Full-stack Web Development, and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br>- 💗 I put together some writings, notes, and reflections on (here)[https://bloomxyz.notion.site/SADAQAH-JARRIDAY-2b600abea7d2406a97b48907c4cc57d7?pvs=4] about Islam.</p>
 
 ###
 
