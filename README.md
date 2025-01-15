@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m open to fully-remote opportunities in the field of Artificial Intelligence & Data science.<br>- 📚 I'm currently learning about Large Language Models, Full-stack Web Development, and Competitive programming.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br></p>
+<p align="left">- 🤗 Your favorite 23 years old ISFJ.<br>- 👩‍💻 Working from home on some AI stuff.<br>- 📚 I'm currently learning about AI Agents, Full-stack Web Development, and DevOps.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br></p>
 
 ###
 
