@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🤗 Your favorite 23 years old ISFJ.<br>- 👩‍💻 Working from home on some AI stuff.<br>- 📚 I'm currently learning about AI Agents, Full-stack Web Development, and DevOps.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br></p>
+<p align="left">-- 👩‍💻 Working from home on some AI stuff.<br>- 📚 I'm currently learning about AI Agents, Full-stack Web Development, and DevOps.<br>- ⚡ In my free time I listen to podcasts and play with my pets.<br></p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">🔥   My Performance</h3>
+<h3 align="left">🔥 My Performance</h3>
 
 ###
 
