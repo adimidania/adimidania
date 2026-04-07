@@ -16,14 +16,10 @@
 
 ###
 
-<p align="center">
-I'm an AI Engineer with 2+ years of experience building AI-powered applications that solve real-world business challenges.  
-I hold a Master's degree in Artificial Intelligence and Data Science and bring experience from both industry and research environments.
-</p>
-
 <h4>♡ About Myself ♡</h4>
 
-- AI Engineer focused on **LLMs and AI Agents**
+- AI Engineer with 2+ years of experience building AI-powered applications leveraging **LLMs and AI Agents**
+- Working in the intersection of research and industry.
 - Currently learning more about **Agentic AI, LLM applications, Backend Engineering**
 - Living the **remote life**… all the time, every time
 
@@ -35,25 +31,3 @@ I hold a Master's degree in Artificial Intelligence and Data Science and bring e
 - Retrieval Augmented Generation (RAG)
 - AI Product Engineering
 - AI for Education and Social Impact
-
-###
-
-<h4>♡ GitHub Activity ♡</h4>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adimidania&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adimidania.adimidania"/>
-</div>
-
-###
-
-<h3 align="center">✨ Motto</h3>
-
-<p align="center">
-Building useful AI > Building hype AI
-</p>
