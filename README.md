@@ -16,18 +16,18 @@
 
 ###
 
-<h4>♡ About Myself ♡</h4>
+<h4>♡ About Myself</h4>
 
 - AI Engineer with 2+ years of experience building AI-powered applications leveraging **LLMs and AI Agents**
-- Working in the intersection of research and industry.
+- Working in the intersection of research and industry
 - Currently learning more about **Agentic AI, LLM applications, Backend Engineering**
 - Living the **remote life**… all the time, every time
 
 ###
 
-<h4>♡ Current Interests ♡</h4>
+<h4>♡ Current Interests</h4>
 
 - Large Language Models and AI Agents
-- Retrieval Augmented Generation (RAG)
+- Retrieval Augmented Generation
 - AI Product Engineering
 - AI for Education and Social Impact
